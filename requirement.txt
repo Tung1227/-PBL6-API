@@ -1,0 +1,4 @@
+django
+easyocr
+python-opencv
+openpyxl waitress
